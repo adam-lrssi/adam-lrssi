@@ -35,5 +35,4 @@ Here are the technologies I'm most comfortable with:
 I'm always open to discussing new projects, creative ideas, or opportunities.
 
 * **LinkedIn:** [linkedin.com/in/adam-lrssi](https://www.linkedin.com/in/adam-lrssi)
-* **Email:** [adam.laroussi.professionnel@gmail.com](mailto:adam.laroussi.professionnel@gmail.com)
 * **Portfolio:** [portfolio-adam-laroussi.netlify.app](http://portfolio-adam-laroussi.netlify.app/)
