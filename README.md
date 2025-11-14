@@ -2,7 +2,7 @@
 
 <br>
 
-I'm a **Front-End Web Developer** based in Paris, currently studying for my **Bachelor's Degree in Web & Mobile Development** at IMIE Paris.
+I'm a **Front-End Web Developer** based in Paris, currently studying for my **Bachelor's Degree in Web & Mobile Development**.
 
 I specialize in building modern, responsive, and user-centric web applications, with a strong focus on the **React.js** and **Next.js** ecosystems.
 
