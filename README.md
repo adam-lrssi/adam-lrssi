@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Adam Laroussi
+### Hi there, I'm Adam Laroussi
 
 <br>
 
